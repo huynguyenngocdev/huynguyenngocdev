@@ -7,7 +7,7 @@
 ![Profile views](https://gpvc.arturio.dev/huynguyenngocdev)
 
 <img align='right' src="https://media3.giphy.com/media/Xa9hxVGMLP8TGYmJ3Q/giphy.gif" width="230">
-<p><em> Student at<a href="https://www.agilityio.com/">PNV</a> <img src="https://www.passerellesnumeriques.org/misc/logo-vi.png" width="100" height="30"/></br>
+<p><em> Student at <a href="https://www.passerellesnumeriques.org/">PNV </a> <img src="https://www.passerellesnumeriques.org/misc/logo-vi.png" width="200" height="50"/></br>
 
 [![GitHub huynguyenngocdev](https://img.shields.io/github/followers/huynguyenngocdev?label=follow&style=social)](https://github.com/huynguyenngocdev)
 
