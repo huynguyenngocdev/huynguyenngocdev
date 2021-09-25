@@ -6,7 +6,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/huynguyenngocdev)
 
-<img align='right' src="https://media3.giphy.com/media/Xa9hxVGMLP8TGYmJ3Q/giphy.gif" width="230">
+<img align='right' src="https://c.tenor.com/y-Z6sLQbm2kAAAAC/umaru-kawaii.gif" width="230">
 <p><em> Student at <a href="https://www.passerellesnumeriques.org/">PNV </a> <img src="https://www.passerellesnumeriques.org/misc/logo-vi.png" width="200" height="50"/></br>
 
 [![GitHub huynguyenngocdev](https://img.shields.io/github/followers/huynguyenngocdev?label=follow&style=social)](https://github.com/huynguyenngocdev)
@@ -21,15 +21,15 @@ const huynguyenngocdev = {
   technologies: {
     frontEnd: {
       js: ["React"],
-      css: ["CSS", "bootstrap"],
+      css: ["CSS", "bootstrap","Material UI"],
     },
     backEnd: {
-      js: ["NodeJS"],
+      js: ["NodeJS","ExpressJS"],
     },
-    databases: ["MySql", "JSON server"],
+    databases: ["MySql", "JSON server", "MongoDB"],
   },
-  architecture: ["Progressive web applications", "Single page applications"],
-  funFact: "I am a Wibu",
+  architecture: ["Progressive web applications", "Single page applications", "E-commerce website", "WordPress"],
+  funFact: "I am a Otaku",
 };
 ```
 
@@ -64,7 +64,6 @@ const huynguyenngocdev = {
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
 </code>
-
 ---
 
 ### Show some ❤️ by starring some of the repositories!
