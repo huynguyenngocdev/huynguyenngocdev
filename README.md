@@ -16,19 +16,20 @@
 ```javascript
 const huynguyenngocdev = {
   pronouns: "He" | "Him",
-  code: ["JavaScript", "HTML/CSS", "PHP"],
-  askMeAbout: ["web dev", "tech", "app dev"],
+  code: ["JavaScript", "HTML/CSS", "PHP", "Kotlin"],
+  askMeAbout: ["web dev", "tech", "mobile dev"],
   technologies: {
     frontEnd: {
-      js: ["React"],
+      js: ["ReactJS", "React Native"],
+      kotlin: ["Jetpack Compose"],
       css: ["CSS", "bootstrap","Material UI"],
     },
     backEnd: {
-      js: ["NodeJS","ExpressJS"],
+      js: ["NodeJS","ExpressJS", "Laravel"],
     },
-    databases: ["MySql", "JSON server", "MongoDB"],
+    databases: ["MySql", "JSON server", "MongoDB", "Firebase"],
   },
-  architecture: ["Progressive web applications", "Single page applications", "E-commerce website", "WordPress"],
+  architecture: ["Progressive web applications", "Single page applications", "E-commerce website", "WordPress","Mobile Application"],
   funFact: "I am a Otaku",
 };
 ```
