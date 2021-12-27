@@ -25,12 +25,13 @@ const huynguyenngocdev = {
       css: ["CSS", "bootstrap","Material UI"],
     },
     backEnd: {
-      js: ["NodeJS","ExpressJS", "Laravel"],
+      js: ["NodeJS","ExpressJS"],
+      php: ["Laravel"],
     },
     databases: ["MySql", "JSON server", "MongoDB", "Firebase"],
   },
-  architecture: ["Progressive web applications", "Single page applications", "E-commerce website", "WordPress","Mobile Application"],
-  funFact: "I am a Otaku",
+  architecture: ["Progressive web applications", "Single page applications", "E-commerce website", "Mobile Application"],
+  funFact: "I love Gunpla",
 };
 ```
 
@@ -65,8 +66,8 @@ const huynguyenngocdev = {
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
 </code>
-  <code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
+<code>
+  <img height="20" src="https://avatars.githubusercontent.com/u/37780207?s=40&u=3a390d111d524adeede01b5cf03e4f98e79441f4&v=4">
 </code>
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
