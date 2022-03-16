@@ -22,6 +22,7 @@ const huynguyenngocdev = {
     frontEnd: {
       js: ["ReactJS", "React Native"],
       kotlin: ["Jetpack Compose"],
+      dart: [Flutter],
       css: ["CSS", "bootstrap","Material UI"],
     },
     backEnd: {
@@ -77,6 +78,7 @@ const huynguyenngocdev = {
 </code>
 <code>
   <img height="20" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667">
+  <img height="20" src="https://raw.githubusercontent.com/flutter/website/archived-master/src/_assets/image/flutter-lockup-bg.jpg">
 </code>
 ---
 
