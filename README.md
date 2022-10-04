@@ -78,6 +78,7 @@ const huynguyenngocdev = {
 ### Show some ❤️ by starring some of the repositories!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=huynguyenngocdev&show_icons=true&hide_border=true)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynguyenngocdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b></em>
