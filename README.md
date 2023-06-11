@@ -23,7 +23,7 @@ const huynguyenngocdev = {
       js: ["ReactJS", "React Native"],
       kotlin: ["Jetpack Compose"],
       dart: [Flutter],
-      swift: [SwiftUI]
+      swift: [SwiftUI, UIKit]
       css: ["CSS", "bootstrap","Material UI"],
     },
     backEnd: {
@@ -32,47 +32,10 @@ const huynguyenngocdev = {
     },
     databases: ["MySql", "JSON server", "MongoDB", "Firebase"],
   },
-  architecture: ["Progressive web applications", "Single page applications", "E-commerce website", "Mobile Application"],
-  funFact: "I love Gunpla",
+  architecture: ["Mobile Application", "Single page applications", "E-commerce website"],
+  funFact: "I love Gunpla and Manga",
 };
 ```
-  
-**Languages and Tools I am Familiar With:**
-
-<code style="margin-right: 10px">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</code>
-  
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-</code>
-
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-</code>
-
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-</code>
-
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-</code>
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
-</code>
-<code>
-  <img height="20" src="https://avatars.githubusercontent.com/u/37780207?s=40&u=3a390d111d524adeede01b5cf03e4f98e79441f4&v=4">
-</code>
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
-</code>
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-</code>
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/flutter/website/archived-master/src/_assets/image/flutter-lockup-bg.jpg">
-</code>
 ---
 
 ### Show some ❤️ by starring some of the repositories!
